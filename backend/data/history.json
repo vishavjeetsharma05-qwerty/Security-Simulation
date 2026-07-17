@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "wo9vf3pvxqbzzbr816vg7i",
+    "createdAt": "2026-07-16T06:14:13.296Z",
+    "updatedAt": "2026-07-16T06:14:13.296Z",
+    "userId": "u92hshtyexh48mo70hdqce",
+    "userName": "Lucky",
+    "type": "activity",
+    "title": "Account Registration",
+    "details": "User registered with email ahlawatl069@gmail.com",
+    "status": "Success",
+    "severity": "Info"
+  },
+  {
+    "_id": "zart3x7epplwnuxns7bt",
+    "createdAt": "2026-07-16T06:14:24.834Z",
+    "updatedAt": "2026-07-16T06:14:24.834Z",
+    "userId": "u92hshtyexh48mo70hdqce",
+    "userName": "Lucky",
+    "type": "activity",
+    "title": "Email Verified",
+    "details": "Email verification completed",
+    "status": "Success",
+    "severity": "Info"
+  },
+  {
+    "_id": "w4u9ousi9pob17gnbcro8",
+    "createdAt": "2026-07-16T06:14:56.006Z",
+    "updatedAt": "2026-07-16T06:14:56.006Z",
+    "userId": "u92hshtyexh48mo70hdqce",
+    "userName": "Lucky",
+    "type": "login",
+    "title": "Successful Login",
+    "details": "Logged in from IP",
+    "status": "Success",
+    "severity": "Info"
+  }
+]

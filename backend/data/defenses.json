@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "ux5rmjl4m6d76g50itb4n",
+    "createdAt": "2026-07-16T06:14:56.140Z",
+    "updatedAt": "2026-07-16T06:14:56.140Z",
+    "userId": "u92hshtyexh48mo70hdqce",
+    "defenses": {
+      "inputValidation": false,
+      "outputEncoding": false,
+      "parameterizedQueries": false,
+      "authSecurity": false,
+      "authorization": false,
+      "csrfProtection": false,
+      "xssProtection": false,
+      "rateLimiting": false,
+      "helmetSecurity": false,
+      "secureCookies": false,
+      "sessionSecurity": false,
+      "passwordPolicies": false,
+      "logging": false,
+      "monitoring": false
+    },
+    "fixes": {
+      "sqli": false,
+      "xss": false,
+      "idor": false,
+      "misconfig": false,
+      "exposure": false
+    }
+  }
+]

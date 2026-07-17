@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "lumj54zyxvi5obrn67wh9",
+    "createdAt": "2026-07-16T06:02:10.955Z",
+    "updatedAt": "2026-07-16T06:02:10.960Z",
+    "name": "Vraj Student",
+    "email": "student@simulation.com",
+    "password": "$2a$10$N2T1J8S1GgptnFbJrA4kbe5xFzNDoAJB/bDV6zwZA3j/AjNotuu8O",
+    "phone": "+15550199",
+    "bio": "Enthusiastic Cybersecurity student.",
+    "role": "Student",
+    "isVerified": true
+  },
+  {
+    "_id": "7juzf990mjf7q4snb6fc",
+    "createdAt": "2026-07-16T06:02:11.091Z",
+    "updatedAt": "2026-07-16T06:02:11.091Z",
+    "name": "Vraj Admin",
+    "email": "admin@simulation.com",
+    "password": "$2a$10$j2ZaBSa2kbsKe5C6bYKbyO5he3SSg.JAk1t5WCZBrYIVr4BIu8M4u",
+    "phone": "+15550299",
+    "bio": "Cybersecurity Laboratory Administrator.",
+    "role": "Admin",
+    "isVerified": true
+  },
+  {
+    "_id": "u92hshtyexh48mo70hdqce",
+    "createdAt": "2026-07-16T06:14:13.285Z",
+    "updatedAt": "2026-07-16T06:14:24.828Z",
+    "name": "Lucky",
+    "email": "ahlawatl069@gmail.com",
+    "password": "$2a$10$JWL5OqlW.sVnmQ5aUtcWNu2il6YPAOyOfDKQpGG9e87AZnxtwv4K6",
+    "phone": "91+ 9468225474",
+    "verificationToken": "",
+    "isVerified": true
+  }
+]
