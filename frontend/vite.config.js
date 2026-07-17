@@ -11,7 +11,7 @@ export default defineConfig({
         changeOrigin: true
       },
       '/uploads': {
-        target: 'http://localhost:5000',
+        target: 'http://https://security-simulation.onrender.com',
         changeOrigin: true
       }
     }
